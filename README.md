@@ -6,7 +6,6 @@ This repository will hold all of the designs, sketches, mock-ups and diagrams fo
 The idea is to connect people through shared hobbies using digital media, such as short videos, and image posts. With LuLu Hobby, you will have a personal profile to showcase all of your personal hobbies. You can see all fellow hobbyists in your local area by looking at a local feed. You may sort and filter your feed to be specific hobbies , or you may also use the explore option to see all hobbies participated in your local area.
 
 Updated with requirements.
-
 **REQUIREMENTS**
 
 **User Stories**  
@@ -54,3 +53,4 @@ Updated with requirements.
 4.3.6 Software shall make sure that user's filter actions are applied.
 4.3.7 Software shall make sure that user's searches return accurate results.
 4.3.8 Software shall make sure that no obscene or offensive media is posted.
+
