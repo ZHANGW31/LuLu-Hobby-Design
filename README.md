@@ -52,5 +52,5 @@ Updated with requirements.
 4.3.5 Software shall make sure that the user profile is updated to reflect user changes.\
 4.3.6 Software shall make sure that user's filter actions are applied.\
 4.3.7 Software shall make sure that user's searches return accurate results.\
-4.3.8 Software shall make sure that no obscene or offensive media is posted.\
+4.3.8 Software shall make sure that no obscene or offensive media is posted.
 
