@@ -15,8 +15,8 @@ Updated with requirements.
 1.4 As a user, I want to be able to filter and search for specific hobbies in my local area to see what interests me.\
 1.5 As a user, I want to communicate with other users, and add friends.\
 1.6 As a user, I want to be able to send friend requests to connect with others.\
-1.7 As a user, I want to be able to modify how my account looks, such as profile photo, cover photo, bio, and listing my hobbies.\
-1.8 As a user, I want to be able to modify my account settings.\
+1.7 As a user, I want to be able to modify how my account looks, such as profile photo, cover photo, bio, and listing my hobbies to personalize my page.\
+1.8 As a user, I want to be able to modify my account settings to set preferences.\
 1.9 As a user, I want to have customize options for my profile visual appeal.\
 1.10 As a user, I want to be able to make certain posts private for privacy.\
 1.11 As a user, I want to be able to add and remove hobbies to my hobby list at will so that I can expand or lessen results.\
