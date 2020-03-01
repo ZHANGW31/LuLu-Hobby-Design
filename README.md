@@ -19,7 +19,7 @@ Updated with requirements.
 1.8 As a user, I want to be able to modify my account settings to set preferences.\
 1.9 As a user, I want to have customize options for my profile visual appeal.\
 1.10 As a user, I want to be able to make certain posts private for privacy.\
-1.11 As a user, I want to be able to add and remove hobbies to my hobby list at will so that I can expand or lessen results.\
+1.11 As a user, I want to be able to add and remove hobbies to my hobby list at will so that I can expand or lessen results.
 
 **Use-Cases**  
 2.1 Given user action, when they click upload digital media, then an option to upload from desktop appears.\
