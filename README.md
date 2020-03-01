@@ -30,7 +30,7 @@ Updated with requirements.
 2.6 Given user action, when they click on like, comment, or share, then the corresponding actions will be applied. Like will add a thumbs up to the digital media, comment will open a text box, and share will display the URL of the post.\
 2.7 Given user action, when they click on the profile of the poster of the digital media, then it will take the user to their homepage.\
 2.8 Given user action, when they click on the explore option, then all hobbies that are happening in their area will be displayed.\
-2.9 Given user action, when they click on add to personal hobby list, then the hobby is then associated to the user account and the user will start seeing posts pertaining to that hobby.\
+2.9 Given user action, when they click on add to personal hobby list, then the hobby is then associated to the user account and the user will start seeing posts pertaining to that hobby.
 
 
 **Requirements**  
@@ -46,7 +46,7 @@ Updated with requirements.
 4.2.3 System shall provide page navigation\
 4.2.4 System shall provide dynamic visual media\
 4.3.1 Software shall verify user login\
-4.3.2 Software shall verify user connection\  
+4.3.2 Software shall verify user connection\
 4.3.3 Software shall verify that the user is logged out if inactive.\
 4.3.4 Software shall make sure that user's posted media is saved to the database.\
 4.3.5 Software shall make sure that the user profile is updated to reflect user changes.\
