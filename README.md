@@ -9,12 +9,12 @@ Updated with requirements.
 **REQUIREMENTS**
 
 **User Stories**  
-1.1. As a user of LuLuHobby, I want create posts with digital media such as photos, and images.\
+1.1. As a user of LuLuHobby, I want create posts with digital media such as photos, and images so that I can showcase my interests.\
 1.2 As a user, I want to have a personal profile to showcase all of my hobbies.\
 1.3 As a user, I want to be able to see everyone in my local area that share the same hobbies as me.\
 1.4 As a user, I want to be able to filter and search for specific hobbies in my local area to see what interests me.\
-1.5 As a user, I want to communicate with other users, and add friends.\
-1.6 As a user, I want to be able to send friend requests to connect with others.\
+1.5 As a user, I want to communicate with other users, and add friends so I can connect with like minded people.\
+1.6 As a user, I want to be able to send friend requests to connect with others so that I can see what they do and share posts.\
 1.7 As a user, I want to be able to modify how my account looks, such as profile photo, cover photo, bio, and listing my hobbies to personalize my page.\
 1.8 As a user, I want to be able to modify my account settings to set preferences.\
 1.9 As a user, I want to have customize options for my profile visual appeal.\
