@@ -9,7 +9,7 @@ Updated with requirements.
 
 **LuLuHobby Entity Relation Diagram**
 
-![LuLuHobby ERD](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20ERD%20v1.pdf)
+![LuLuHobby ERD](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LLH%20ERD.PNG)
 
 
 
