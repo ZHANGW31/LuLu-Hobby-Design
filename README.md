@@ -34,6 +34,9 @@ Updated with requirements.
 2.9 Given user action, when they click on add to personal hobby list, then the hobby is then associated to the user account and the user will start seeing posts pertaining to that hobby.
 
 
+![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
+
+
 **Requirements**  
 4.1.1 User shall create an account\
 4.1.2 User shall verify email account\
