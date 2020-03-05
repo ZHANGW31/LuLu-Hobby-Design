@@ -70,9 +70,9 @@ Fuctional requirements testing:\
 Unit Testing\
 Integration testing\
 System testing\
-Acceptance testing\
+Acceptance testing
 
-Upcoming updates...\
+Upcoming updates...
 
 Requirements Table including:\
 Requirement ID\
@@ -80,11 +80,11 @@ Requirement Description\
 Test Method (Inspection | Demonstration | Test | Analysis)\
 Test ID Numbers\
 
-Test Table including:\
+Test Table including:
 
 Test ID\
 Requirements ID\
 Test Procedure\
 Current Status\
 TimeStamp\
-build | version\
+build | version
