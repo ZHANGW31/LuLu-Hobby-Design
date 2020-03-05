@@ -43,7 +43,7 @@ Updated with requirements.
 
 ![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
 
-
+![LuLuHobby WireFrame Sketch](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20First%20WireFrame.jpg)
 **Requirements**  
 4.1.1 User shall create an account\
 4.1.2 User shall verify email account\
@@ -78,7 +78,7 @@ Requirements Table including:\
 Requirement ID\
 Requirement Description\
 Test Method (Inspection | Demonstration | Test | Analysis)\
-Test ID Numbers\
+Test ID Numbers
 
 Test Table including:
 
