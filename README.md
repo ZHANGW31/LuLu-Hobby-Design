@@ -11,6 +11,11 @@ Updated with requirements.
 
 ![LuLuHobby ERD](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LLH%20ERD.PNG)
 
+**Initial Wireframe Sketches**
+
+![LuLuHobby WireFrame Sketch](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20First%20WireFrame.jpg)
+
+![LuLuHobby WireFrame Sketch](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Second%20WireFrame.jpg)
 
 
 
@@ -43,7 +48,7 @@ Updated with requirements.
 
 ![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
 
-![LuLuHobby WireFrame Sketch](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20First%20WireFrame.jpg)
+
 **Requirements**  
 4.1.1 User shall create an account\
 4.1.2 User shall verify email account\
