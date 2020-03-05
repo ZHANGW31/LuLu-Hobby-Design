@@ -66,25 +66,25 @@ Updated with requirements.
 4.3.8 Software shall make sure that no obscene or offensive media is posted.
 
 **To Do**
-Fuctional requirements testing:
-Unit Testing
-Integration testing
-System testing
-Acceptance testing
+Fuctional requirements testing:\
+Unit Testing\
+Integration testing\
+System testing\
+Acceptance testing\
 
-Upcoming updates...
+Upcoming updates...\
 
-Requirements Table including:
-Requirement ID
-Requirement Description
-Test Method (Inspection | Demonstration | Test | Analysis) 
-Test ID Numbers
+Requirements Table including:\
+Requirement ID\
+Requirement Description\
+Test Method (Inspection | Demonstration | Test | Analysis)\
+Test ID Numbers\
 
-Test Table including:
+Test Table including:\
 
-Test ID
-Requirements ID
-Test Procedure
-Current Status
-TimeStamp
-build | version.
+Test ID\
+Requirements ID\
+Test Procedure\
+Current Status\
+TimeStamp\
+build | version\
