@@ -15,6 +15,7 @@ Table of Contents
 - **[User Stories](#user-stories)**<br>
 - **[Use Cases](#use-cases)**<br>
 - **[Requirements Cases](#requirements-cases)**<br>
+- **[Test Table](#test-table)**<br>
 
 
 Updated with requirements.
@@ -95,30 +96,29 @@ not it has been tested.
 |4.3.7|Software shall make sure that user's searches return accurate results.  | No | Inspection | T18 | No |
 |4.3.8|Software shall make sure that no obscene or offensive media is posted.  | No | Test | T19 | No |
 
+## Test Table
+
+| Test ID | Req ID | Test Procedure | Current Status | Time Stamp | Build Version |
+|:--------|:-------|:---------------|:--------------:|:----------:|:-------------:|
+|T1       |4.1.1| Click on the sign up button to open form. Page should display required fields to be filled out | Not Tested | N/A | 0.0.0 |
+|T2       |4.1.2| Click on the link sent to the user email account | Not Tested | N/A | 0.0.0 |    
+|T3       |4.1.3| On the signup/login page, enter credentials and click on the login button | Not Tested | N/A | 0.0.0 |
+|T4       |4.1.4| Click on the settings icon, and attempt to modify and save settings. | Not Tested | N/A | 0.0.0 |
+|T5       |4.1.5| Click on the add hobby , go to user homepage and visually see that the hobby is added. | Not Tested | N/A | 0.0.0 |
+|T6       |4.1.6| Click on the search bar and start typing a hobby, the search should start populating results with clickable | Not Tested | N/A | 0.0.0 |
+|T7       |4.1.7| When loaded into the homepage, visually inspect that digital media of shared hobbies are displayed. | Not Tested | N/A | 0.0.0 |
+|T8       |4.2.1| Upon connecting to the site, or login page, the requested webpage is loaded. | Not Tested | N/A | 0.0.0 |
+|T9       |4.2.2| Visually inspect that the user interface is displayed upon loading of webpage. | Not Tested | N/A | 0.0.0 |
+|T10      |4.2.3| Click on navigation links and visually inspect that it navigates to the intended location. | Not Tested | N/A | 0.0.0 |
+|T11      |4.2.4| On the homepage, see if digital media is loaded and when clicked upon, loads and plays. | Not Tested | N/A | 0.0.0 |
+|T12      |4.3.1| Enter credentials to and click login if correct log in success and display homepage, supply faulty credentials to display correct errors. | Not Tested | N/A | 0.0.0 |
+|T13      |4.3.2| Check to see if the client is connected to the server. Click refresh on client to see if still logged in. | Not Tested | N/A | 0.0.0 |
+|T14      |4.3.3| Log in and stay inactive (without pressing anything or navigating anywhere) for 5 minutes, it should auto log off client. | Not Tested | N/A | 0.0.0 |
+|T15      |4.3.4| Check database entries and query for the information. It should exist. | Not Tested | N/A | 0.0.0 |
+|T16      |4.3.5| Click refresh on the settings page to make sure the changes were applied. | Not Tested | N/A | 0.0.0 |
+|T17      |4.3.6| Click on filter , apply filters, and the pass case results will be correctly filtered. | Not Tested | N/A | 0.0.0 |
+|T18      |4.3.7| Click refresh after the filters are clicked to display the filtered results. | Not Tested | N/A | 0.0.0 |
+|T19      |4.3.8| Attempt to upload unsafe content. The Moderation API should filter and disallow or remove unsafe content. | Not Tested | N/A | 0.0.0 |
 
 
 
-**To Do**
-
-Fuctional requirements testing:\
-Unit Testing\
-Integration testing\
-System testing\
-Acceptance testing
-
-Upcoming updates...
-
-Requirements Table including:\
-Requirement ID\
-Requirement Description\
-Test Method (Inspection | Demonstration | Test | Analysis)\
-Test ID Numbers
-
-Test Table including:
-
-Test ID\
-Requirements ID\
-Test Procedure\
-Current Status\
-TimeStamp\
-build | version
