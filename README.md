@@ -82,6 +82,12 @@ Updated with requirements.
 4.3.7 Software shall make sure that user's searches return accurate results.\
 4.3.8 Software shall make sure that no obscene or offensive media is posted.
 
+| ID            | Requirements  | Implemented | Tested |
+| ------------- |:-------------:| :----------:|-------:|
+| col 3 is      | right-aligned | $1600       |        |
+| col 2 is      | centered      |   $12       |        |
+| zebra stripes | are neat      |    $1       |        |
+
 **To Do**
 Fuctional requirements testing:\
 Unit Testing\
