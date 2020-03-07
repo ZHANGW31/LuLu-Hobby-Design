@@ -14,7 +14,7 @@ Table of Contents
 - **[Requirements](#requirements)**<br>
 - **[User Stories](#user-stories)**<br>
 - **[Use Cases](#use-cases)**<br>
-- **[Requirements Cases](#requirements-cases)**<br>
+- **[Requirements Table](#requirements-table)**<br>
 - **[Test Table](#test-table)**<br>
 
 
@@ -66,7 +66,7 @@ Updated with requirements.
 ![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
 
 
-## Requirements Cases  
+## Requirements Table  
 
 This requirements table highlights the requirements and the fundamental methods of requirement verification.  
 
