@@ -7,10 +7,15 @@ This repository will hold all of the designs, sketches, mock-ups and diagrams fo
 **Description**\
 The idea is to connect people through shared hobbies using digital media, such as short videos, and image posts. With LuLu Hobby, you will have a personal profile to showcase all of your personal hobbies. You can see all fellow hobbyists in your local area by looking at a local feed. You may sort and filter your feed to be specific hobbies , or you may also use the explore option to see all hobbies participated in your local area.
 
-Table of Contents\
+Table of Contents
 
 **[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
 **[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
+**[Requirements](#requirements)**<br>
+**[User Stories](#user-stories)**<br>
+**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
+**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
+
 
 Updated with requirements.
 
@@ -26,9 +31,9 @@ Updated with requirements.
 
 
 
-##REQUIREMENTS
+## Requirements
 
-**User Stories**  
+## User Stories  
 1.1. As a user of LuLuHobby, I want create posts with digital media such as photos, and images so that I can showcase my interests.\
 1.2 As a user, I want to have a personal profile to showcase all of my hobbies.\
 1.3 As a user, I want to be able to see everyone in my local area that share the same hobbies as me.\
@@ -41,7 +46,7 @@ Updated with requirements.
 1.10 As a user, I want to be able to make certain posts private for privacy.\
 1.11 As a user, I want to be able to add and remove hobbies to my hobby list at will so that I can expand or lessen results.
 
-**Use-Cases**  
+## Use-Cases    
 2.1 Given user action, when they click upload digital media, then an option to upload from desktop appears.\
 2.2 Given user action, when they first login the website, then they are shown the homepage and the digital media is shown.\
 2.3 Given user action, when they scroll down on the homepage, new digital media is loaded.\
@@ -56,7 +61,7 @@ Updated with requirements.
 ![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
 
 
-**Requirements**  
+## Requirements Cases  
 4.1.1 User shall create an account\
 4.1.2 User shall verify email account\
 4.1.3. User shall login\
