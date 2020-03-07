@@ -7,16 +7,18 @@ This repository will hold all of the designs, sketches, mock-ups and diagrams fo
 **Description**\
 The idea is to connect people through shared hobbies using digital media, such as short videos, and image posts. With LuLu Hobby, you will have a personal profile to showcase all of your personal hobbies. You can see all fellow hobbyists in your local area by looking at a local feed. You may sort and filter your feed to be specific hobbies , or you may also use the explore option to see all hobbies participated in your local area.
 
-###Table of Contents
+Table of Contents\
+
 **[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
+**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
 
 Updated with requirements.
 
-##LuLuHobby Entity Relation Diagram
+## LuLuHobby Entity Relation Diagram
 
 ![LuLuHobby ERD](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LLH%20ERD.PNG)
 
-**Initial Wireframe Sketches**
+## Initial Wireframe Sketches
 
 ![LuLuHobby WireFrame Sketch](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20First%20WireFrame.jpg)
 
