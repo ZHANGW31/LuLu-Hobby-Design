@@ -90,9 +90,9 @@ not it has been tested.
 |4.3.2|Software shall verify user connection   | No | Test | 4.3.2 | No |
 |4.3.3|Software shall verify that the user is logged out if inactive.  | No | Test | 4.3.3 | No |
 |4.3.4|Software shall make sure that user's posted media is saved to the database.   | No | Test | 4.3.4 | No |
-|4.3.5|Software shall make sure that the user profile is updated to reflect user changes.  | No | Test | 4.3.5 | No |
-|4.3.6|Software shall make sure that user's filter actions are applied.   | No | Test | 4.3.6 | No |
-|4.3.7|Software shall make sure that user's searches return accurate results.  | No | Test | 4.3.7 | No |
+|4.3.5|Software shall make sure that the user profile is updated to reflect user changes.  | No | Inspection | 4.3.5 | No |
+|4.3.6|Software shall make sure that user's filter actions are applied.   | No | Inspection | 4.3.6 | No |
+|4.3.7|Software shall make sure that user's searches return accurate results.  | No | Inspection | 4.3.7 | No |
 |4.3.8|Software shall make sure that no obscene or offensive media is posted.  | No | Test | 4.3.8 | No |
 
 
