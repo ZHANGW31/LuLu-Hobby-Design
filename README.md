@@ -13,8 +13,8 @@ Table of Contents
 **[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
 **[Requirements](#requirements)**<br>
 **[User Stories](#user-stories)**<br>
-**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
-**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
+**[Use Cases](#use-cases)**<br>
+**[Requirements Cases](#requirements-cases)**<br>
 
 
 Updated with requirements.
