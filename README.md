@@ -1,6 +1,6 @@
 
 
-# LuLu-Hobby-Design
+# Project LuLuHobby
 This repository will hold all of the designs, sketches, mock-ups and diagrams for my project LuLuHobby
 
 **LuLu Hobby**
@@ -34,7 +34,7 @@ Updated with requirements.
 ## Requirements
 
 ## User Stories  
-|ID |User Stories                                                                                                                    |
+|ID |User Stories                                                                                                                    |   
 |---|:-------------------------------------------------------------------------------------------------------------------------------|
 |1.1| As a user of LuLuHobby, I want create posts with digital media such as photos, and images so that I can showcase my interests.
 |1.2| As a user, I want to have a personal profile to showcase all of my hobbies.
@@ -66,9 +66,9 @@ Updated with requirements.
 
 
 ## Requirements Cases  
-|ID   |Requirements Cases                                                                 |
-|-----|:----------------------------------------------------------------------------------|
-|4.1.1|User shall create an account
+|ID   |Requirements Cases                                                                 | Implemented | Tested|
+|-----|:----------------------------------------------------------------------------------|:------------|:------|
+|4.1.1|User shall create an account                                                       | [ ]         | [ ]   |
 |4.1.2|User shall verify email account
 |4.1.3| User shall login
 |4.1.4|User shall modify profile
@@ -88,7 +88,11 @@ Updated with requirements.
 |4.3.7|Software shall make sure that user's searches return accurate results.
 |4.3.8|Software shall make sure that no obscene or offensive media is posted.
 
+
+
+
 **To Do**
+
 Fuctional requirements testing:\
 Unit Testing\
 Integration testing\
