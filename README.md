@@ -9,12 +9,12 @@ The idea is to connect people through shared hobbies using digital media, such a
 
 Table of Contents
 
-**[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
-**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
-**[Requirements](#requirements)**<br>
-**[User Stories](#user-stories)**<br>
-**[Use Cases](#use-cases)**<br>
-**[Requirements Cases](#requirements-cases)**<br>
+-**[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
+-**[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
+-**[Requirements](#requirements)**<br>
+-**[User Stories](#user-stories)**<br>
+-**[Use Cases](#use-cases)**<br>
+-**[Requirements Cases](#requirements-cases)**<br>
 
 
 Updated with requirements.
