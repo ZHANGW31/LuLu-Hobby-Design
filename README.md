@@ -33,12 +33,6 @@ Updated with requirements.
 
 ## Requirements
 
-| ID            | Requirements  | Implemented | Tested |
-| ------------- |:-------------:| :----------:|-------:|
-| col 3 is      | right-aligned | $1600       |        |
-| col 2 is      | centered      |   $12       |        |
-| zebra stripes | are neat      |    $1       |        |
-
 ## User Stories  
 |ID |User Stories                                                                                                                    |
 |---|:-------------------------------------------------------------------------------------------------------------------------------|
@@ -72,31 +66,27 @@ Updated with requirements.
 
 
 ## Requirements Cases  
-4.1.1 User shall create an account\
-4.1.2 User shall verify email account\
-4.1.3. User shall login\
-4.1.4 User shall modify profile\
-4.1.5 User shall add hobbies\
-4.1.6 User shall search for hobbies\
-4.1.7 User shall see digital media pertaining to their shared hobbies on their homepage.\
-4.2.1 System shall provide web-page\
-4.2.2 System shall provide user interface\
-4.2.3 System shall provide page navigation\
-4.2.4 System shall provide dynamic visual media\
-4.3.1 Software shall verify user login\
-4.3.2 Software shall verify user connection\
-4.3.3 Software shall verify that the user is logged out if inactive.\
-4.3.4 Software shall make sure that user's posted media is saved to the database.\
-4.3.5 Software shall make sure that the user profile is updated to reflect user changes.\
-4.3.6 Software shall make sure that user's filter actions are applied.\
-4.3.7 Software shall make sure that user's searches return accurate results.\
-4.3.8 Software shall make sure that no obscene or offensive media is posted.
-
-| ID            | Requirements  | Implemented | Tested |
-| ------------- |:-------------:| :----------:|-------:|
-| col 3 is      | right-aligned | $1600       |        |
-| col 2 is      | centered      |   $12       |        |
-| zebra stripes | are neat      |    $1       |        |
+|ID   |Requirements Cases                                                                 |
+|-----|:----------------------------------------------------------------------------------|
+|4.1.1|User shall create an account
+|4.1.2|User shall verify email account
+|4.1.3| User shall login
+|4.1.4|User shall modify profile
+|4.1.5|User shall add hobbies
+|4.1.6|User shall search for hobbies
+|4.1.7|User shall see digital media pertaining to their shared hobbies on their homepage.
+|4.2.1|System shall provide web-page
+|4.2.2|System shall provide user interface
+|4.2.3|System shall provide page navigation
+|4.2.4|System shall provide dynamic visual media
+|4.3.1|Software shall verify user login
+|4.3.2|Software shall verify user connection
+|4.3.3|Software shall verify that the user is logged out if inactive.
+|4.3.4|Software shall make sure that user's posted media is saved to the database.
+|4.3.5|Software shall make sure that the user profile is updated to reflect user changes.
+|4.3.6|Software shall make sure that user's filter actions are applied.
+|4.3.7|Software shall make sure that user's searches return accurate results.
+|4.3.8|Software shall make sure that no obscene or offensive media is posted.
 
 **To Do**
 Fuctional requirements testing:\
