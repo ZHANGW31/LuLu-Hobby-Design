@@ -54,16 +54,18 @@ Updated with requirements.
 |1.10| As a user, I want to be able to make certain posts private for privacy.
 |1.11| As a user, I want to be able to add and remove hobbies to my hobby list at will so that I can expand or lessen results.
 
-## Use-Cases    
-2.1 Given user action, when they click upload digital media, then an option to upload from desktop appears.\
-2.2 Given user action, when they first login the website, then they are shown the homepage and the digital media is shown.\
-2.3 Given user action, when they scroll down on the homepage, new digital media is loaded.\
-2.4 Given user action, when they select filter, then a dropdown list appears to allow the user to filter through the media.\
-2.5 Given user action, when they click on a media, then it will be brought into a larger view.\
-2.6 Given user action, when they click on like, comment, or share, then the corresponding actions will be applied. Like will add a thumbs up to the digital media, comment will open a text box, and share will display the URL of the post.\
-2.7 Given user action, when they click on the profile of the poster of the digital media, then it will take the user to their homepage.\
-2.8 Given user action, when they click on the explore option, then all hobbies that are happening in their area will be displayed.\
-2.9 Given user action, when they click on add to personal hobby list, then the hobby is then associated to the user account and the user will start seeing posts pertaining to that hobby.
+## Use-Cases
+|ID |Use Cases                                                                                                                     |
+|---|:-----------------------------------------------------------------------------------------------------------------------------|
+|2.1| Given user action, when they click upload digital media, then an option to upload from desktop appears.
+|2.2| Given user action, when they first login the website, then they are shown the homepage and the digital media is shown.
+|2.3| Given user action, when they scroll down on the homepage, new digital media is loaded.
+|2.4| Given user action, when they select filter, then a dropdown list appears to allow the user to filter through the media.
+|2.5| Given user action, when they click on a media, then it will be brought into a larger view.
+|2.6| Given user action, when they click on like, comment, or share, then the corresponding actions will be applied. Like will add a           thumbs up to the digital media, comment will open a text box, and share will display the URL of the post.
+|2.7| Given user action, when they click on the profile of the poster of the digital media, then it will take the user to their               homepage.
+|2.8| Given user action, when they click on the explore option, then all hobbies that are happening in their area will be displayed.
+|2.9| Given user action, when they click on add to personal hobby list, then the hobby is then associated to the user account and the         user will start seeing posts pertaining to that hobby.
 
 
 ![LuLuHobby Use-Case Diagram](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LuLuHobby%20Use%20Case%20Diagram.jpg)
