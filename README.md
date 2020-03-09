@@ -16,7 +16,7 @@ Table of Contents
 - **[Use Cases](#use-cases)**<br>
 - **[Requirements Table](#requirements-table)**<br>
 - **[Test Table](#test-table)**<br>
-- **[Upcoming updates...](#upcoming-updates...)**<br>
+- **[Upcoming updates](#upcoming-updates)**<br>
 
 Updated with requirements.
 
