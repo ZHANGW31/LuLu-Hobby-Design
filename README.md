@@ -98,9 +98,9 @@ not it has been tested.
 
 ## Test Table
 
-| Test ID | Req ID | Test Procedure | Current Status | Time Stamp | Build Version |
+| Test ID | Req ID('s) | Test Procedure | Current Status | Time Stamp | Build Version |
 |:--------|:-------|:---------------|:--------------:|:----------:|:-------------:|
-|T1       |4.1.1| Click on the sign up button to open form. Page should display required fields to be filled out | Not Tested | N/A | 0.0.0 |
+|T1       |4.1.1 , 4.1.3| Click on the sign up button to open form. Page should display required fields to be filled out | Not Tested | N/A | 0.0.0 |
 |T2       |4.1.2| Click on the link sent to the user email account | Not Tested | N/A | 0.0.0 |    
 |T3       |4.1.3| On the signup/login page, enter credentials and click on the login button | Not Tested | N/A | 0.0.0 |
 |T4       |4.1.4| Click on the settings icon, and attempt to modify and save settings. | Not Tested | N/A | 0.0.0 |
