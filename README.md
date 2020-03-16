@@ -122,7 +122,7 @@ not it has been tested.
 |T19      |4.3.8| Attempt to upload unsafe content. The Moderation API should filter and disallow or remove unsafe content. | Not Tested | N/A | 0.0.0 |
 
 ## Prototypes
-![Prototype Login Page]https://github.com/ZHANGW31/Project-LuLuHobby/blob/master/Prototype%20Login%20page.PNG  
+![Prototype Login Page](https://github.com/ZHANGW31/Project-LuLuHobby/blob/master/Prototype%20Login%20page.PNG)  
 
 ## Upcoming updates
 
