@@ -128,7 +128,7 @@ not it has been tested.
 
 ## Upcoming updates
 
-Requirements Analysis  
-
 Digital Mockups  
+
+Additional Prototype Pages: Homepage, Friend's Page, Location Page, and Hobby Page.
 
