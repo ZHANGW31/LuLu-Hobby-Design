@@ -9,7 +9,8 @@ The idea is to connect people through shared hobbies using digital media, such a
 
 To preview the current prototype please click here: https://zhangw31.github.io/Project-LuLuHobby/  
 
-To view my current work in progress prototype with Figma please click here:  https://www.figma.com/proto/qiMsWkyacvO1lRhfuE2Su2/Figma-Test?node-id=2%3A7&scaling=min-zoom
+To view my current work in progress prototype with Figma:  
+[View my Figma Prototype](https://www.figma.com/proto/qiMsWkyacvO1lRhfuE2Su2/Figma-Test?node-id=2%3A7&scaling=min-zoom)
 
 Table of Contents
 
