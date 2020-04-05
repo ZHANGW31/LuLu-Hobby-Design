@@ -64,3 +64,5 @@ C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\bin\Debug\netcoreapp3.1\
 C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.csproj.CoreCompileInputs.cache
+C:\Users\weizh\source\repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.MvcApplicationPartsAssemblyInfo.cache
