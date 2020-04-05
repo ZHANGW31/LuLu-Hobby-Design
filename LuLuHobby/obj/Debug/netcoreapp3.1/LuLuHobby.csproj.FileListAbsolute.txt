@@ -1,0 +1,5 @@
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.csprojAssemblyReference.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.AssemblyInfoInputs.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.AssemblyInfo.cs
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.TagHelpers.input.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.TagHelpers.output.cache
