@@ -3,3 +3,7 @@ C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\
 C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.AssemblyInfo.cs
 C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.TagHelpers.input.cache
 C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.TagHelpers.output.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.csproj.CoreCompileInputs.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.dll
+C:\Users\weizh\Source\Repos\Project-LuLuHobby\LuLuHobby\obj\Debug\netcoreapp3.1\LuLuHobby.pdb
