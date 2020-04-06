@@ -25,7 +25,7 @@ Table of Contents
 - **[Prototypes](#prototypes)**<br>
 - **[Upcoming updates](#upcoming-updates)**<br>
 
-Updated with requirements.
+
 
 ## LuLuHobby Entity Relation Diagram
 
@@ -139,4 +139,6 @@ not it has been tested.
 Digital Mockups  
 
 Additional Prototype Pages: Homepage, Friend's Page, Location Page, and Hobby Page.
+
+Created Database and using Entity Framework Core connected the database to ASP.NET Core MVC project
 
