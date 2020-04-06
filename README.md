@@ -15,6 +15,7 @@ To view my current work in progress prototype with Figma:
 Table of Contents
 
 - **[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
+- **[Initial Database Diagram](#initial-database-diagram)**<br>
 - **[Initial Wireframe Sketches](#initial-wireframe-sketches)**<br>
 - **[Requirements](#requirements)**<br>
 - **[User Stories](#user-stories)**<br>
@@ -24,11 +25,15 @@ Table of Contents
 - **[Prototypes](#prototypes)**<br>
 - **[Upcoming updates](#upcoming-updates)**<br>
 
-Updated with requirements.
+
 
 ## LuLuHobby Entity Relation Diagram
 
 ![LuLuHobby ERD](https://github.com/ZHANGW31/LuLu-Hobby-Design/blob/master/LLH%20ERD.PNG)
+
+## Initial Database Diagram
+
+![DatabaseDiagram](https://github.com/ZHANGW31/Project-LuLuHobby/blob/master/Initial%20Database%20Diagram.PNG)
 
 ## Initial Wireframe Sketches
 
@@ -134,4 +139,6 @@ not it has been tested.
 Digital Mockups  
 
 Additional Prototype Pages: Homepage, Friend's Page, Location Page, and Hobby Page.
+
+Created Database and using Entity Framework Core connected the database to ASP.NET Core MVC project
 
