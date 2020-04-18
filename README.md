@@ -142,3 +142,5 @@ Additional Prototype Pages: Homepage, Friend's Page, Location Page, and Hobby Pa
 
 Created Database and using Entity Framework Core connected the database to ASP.NET Core MVC project
 
+Sprint planning! Will be utilizing Zenhub to show the current progress of issues and to track what is currently being worked on.
+
