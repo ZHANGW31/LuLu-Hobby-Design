@@ -1,14 +1,18 @@
-﻿using System;
+﻿using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-/// <summary>
-/// Summary description for Class1
-/// </summary>
-public class Class1
+namespace LuLuHobby.Models
 {
-	public Class1()
-	{
-		//
-		// TODO: Add constructor logic here
-		//
-	}
+    public class AppDbContext : IdentityDbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            :base(options)
+        {
+
+        }
+    }
 }
