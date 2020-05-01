@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LuLuHobby"
+    "\\LuLuHobby",
+    "\\LuLuHobby\\Controllers",
+    "\\LuLuHobby\\Models",
+    "\\LuLuHobby\\Properties",
+    "\\LuLuHobby\\Views",
+    "\\LuLuHobby\\wwwroot"
   ],
-  "SelectedNode": "\\LuLuHobby\\Controllers",
+  "SelectedNode": "\\LuLuHobby\\Models\\AppDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
