@@ -87,13 +87,13 @@ not it has been tested.
 
 |ID   |Requirements Cases Description | Implemented | Test Method | Test ID | Tested |
 |-----|:------------------------------|:-----------:|:-----------:|:-------:|:------:|
-|4.1.1|User shall create an account   | No | Demonstration | T1 | No |                                                     
-|4.1.2|User shall verify email account| No | Test | T2 | No |                                               
-|4.1.3|User shall login  | No | Test | T3 | No |
-|4.1.4|User shall modify profile  | No | Demonstration | T4 | No | 
-|4.1.5|User shall add hobbies  | Yes | Demonstration | T5 | Yes |
-|4.1.6|User shall search for hobbies  | No | Test | T6 | No |
-|4.1.7|User shall see digital media pertaining to their shared hobbies on their homepage.  | No | Inspection | T7 | No |
+|4.1.1|System shall allow users to create an account   | No | Demonstration | T1 | No |                                                
+|4.1.2|System shall verify email account| No | Test | T2 | No |                                               
+|4.1.3|System shall allow user login  | No | Test | T3 | No |
+|4.1.4|System shall allow users to modify profile  | No | Demonstration | T4 | No | 
+|4.1.5|System shall allow add hobbies  | Yes | Demonstration | T5 | Yes |
+|4.1.6|System shall allow for users to search for hobbies  | No | Test | T6 | No |
+|4.1.7|System shall see digital media pertaining to their shared hobbies on their homepage.  | No | Inspection | T7 | No |
 |4.2.1|System shall provide web-page | Yes | Test | T8 | Yes |
 |4.2.2|System shall provide user interface  | Yes | Test | T9 | Yes |
 |4.2.3|System shall provide page navigation    | Yes | Test | T10 | Yes |
