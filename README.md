@@ -12,6 +12,16 @@ To preview the current prototype please click here: https://zhangw31.github.io/P
 To view my current work in progress prototype with Figma:  
 [View my Figma Prototype](https://www.figma.com/proto/qiMsWkyacvO1lRhfuE2Su2/Figma-Test?node-id=2%3A7&scaling=min-zoom)
 
+Technologies used in this project:
+
+React Class Library with Typescript
+Axios
+MobX
+React Router
+ASP.NET Core
+Entity Framework Core
+
+
 Table of Contents
 
 - **[LuLuHobby Entity Relation Diagram](#luluhobby-entity-relation-diagram)**<br>
