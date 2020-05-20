@@ -15,9 +15,6 @@ To view my current work in progress prototype with Figma:
 Technologies used in this project:
 
 React Class Library with Typescript
-Axios
-MobX
-React Router
 ASP.NET Core
 Entity Framework Core
 
