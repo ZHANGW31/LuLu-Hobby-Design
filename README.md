@@ -14,9 +14,9 @@ To view my current work in progress prototype with Figma:
 
 Technologies used in this project:
 
-- **React Class Library with Typescript  
-- **ASP.NET Core  
-- **Entity Framework Core  
+- React Class Library with Typescript  
+- ASP.NET Core  
+- Entity Framework Core  
 
 
 Table of Contents
